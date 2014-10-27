@@ -18,6 +18,7 @@
         </activity>
         <activity
             android:name=".LinkOpenerActivity"
+            android:theme="@style/TransparentActivity"
             android:label="@string/title_activity_link_opener" >
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
