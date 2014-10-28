@@ -33,7 +33,7 @@
                 <data
                     android:scheme="file"
                     android:mimeType="*/*"
-                    android:pathPattern="*" />
+                    android:pathPattern=".*\\.link" />
             </intent-filter>
         </activity>
     </application>
