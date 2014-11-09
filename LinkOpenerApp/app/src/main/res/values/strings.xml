@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">LinkOpenerApp</string>
+
+    <string name="app_name">Link Opener</string>
+
 </resources>
