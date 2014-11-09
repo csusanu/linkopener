@@ -1,4 +1,6 @@
 linkopener
 ==========
 
-An Android application for opening some types (TBD) of files.
+An Android application for opening .link files.
+
+[See the documentation](docs/index.md)

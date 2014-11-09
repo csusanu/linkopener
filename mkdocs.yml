@@ -1,3 +1,4 @@
 site_name: LinkOpener Docs
 pages:
-- [index.md, Home]
+- ['index.md', 'Home']
+- ['LinkOpenerApp/app/src/main/java/com/linkopener/LinkOpenerActivity.md', 'LinkOpenerApp', 'Main Activity']
