@@ -43,6 +43,22 @@
                     android:scheme="file"
                     android:host="*"
                     android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\.link" />
+                <data
+                    android:scheme="file"
+                    android:host="*"
+                    android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\.link" />
+                <data
+                    android:scheme="file"
+                    android:host="*"
+                    android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.link" />
+                <data
+                    android:scheme="file"
+                    android:host="*"
+                    android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.link" />
+                <data
+                    android:scheme="file"
+                    android:host="*"
+                    android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.link" />
             </intent-filter>
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
@@ -73,8 +89,26 @@
                     android:scheme="file"
                     android:host="*"
                     android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\.link" />
+                <data
+                    android:scheme="file"
+                    android:host="*"
+                    android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\.link" />
+                <data
+                    android:scheme="file"
+                    android:host="*"
+                    android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.link" />
+                <data
+                    android:scheme="file"
+                    android:host="*"
+                    android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.link" />
+                <data
+                    android:scheme="file"
+                    android:host="*"
+                    android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.link" />
             </intent-filter>
         </activity>
     </application>
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 
 </manifest>
