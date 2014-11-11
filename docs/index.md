@@ -1,6 +1,7 @@
 # LinkOpener project
 
 This Android app reads files with the .link extension and follows the URL found on the first line. See the [main activity](LinkOpenerApp/app/src/main/java/com/linkopener/LinkOpenerActivity.md) for details.
+[GitHub link for main activity](../LinkOpenerApp/app/src/main/java/com/linkopener/LinkOpenerActivity.md)
 
 ## .link files
 
